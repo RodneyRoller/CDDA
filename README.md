@@ -1,5 +1,5 @@
-# CDDA
-for modifications only
+# TRAINING DUMMY
+initial upload
 
 Added my preliminary training dummy mod.
 
